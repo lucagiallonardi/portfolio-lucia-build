@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-lucia-build/static/css/main.0bd8f611.css",
+    "main.js": "/portfolio-lucia-build/static/js/main.5d93c1cc.js",
+    "static/media/about.png": "/portfolio-lucia-build/static/media/about.3a20c70f7d8dd2d6917f.png",
+    "static/media/nube.png": "/portfolio-lucia-build/static/media/nube.766f4cda1d1ace3b7e5a.png",
+    "static/media/Retrato.png": "/portfolio-lucia-build/static/media/Retrato.45614ca9937a8cae6e13.png",
+    "static/media/nubecita-fondo.png": "/portfolio-lucia-build/static/media/nubecita-fondo.4a727cc7b52fad86c9bb.png",
+    "static/media/misproyectos.png": "/portfolio-lucia-build/static/media/misproyectos.fc1497f8d597050f9077.png",
+    "static/media/nubecitaHab.png": "/portfolio-lucia-build/static/media/nubecitaHab.7784b4676ee84758b74b.png",
+    "static/media/foot.png": "/portfolio-lucia-build/static/media/foot.a0481225d7c24040f7dd.png",
+    "static/media/linea2.png": "/portfolio-lucia-build/static/media/linea2.3fa541fb7dff64a1324f.png",
+    "static/media/Mancha.png": "/portfolio-lucia-build/static/media/Mancha.f581111850e1e1d97b05.png",
+    "static/media/linea3.png": "/portfolio-lucia-build/static/media/linea3.b8e17dd12dcb74a738fd.png",
+    "static/media/linea1.png": "/portfolio-lucia-build/static/media/linea1.7539666a96d9bb58ce50.png",
+    "index.html": "/portfolio-lucia-build/index.html",
+    "main.0bd8f611.css.map": "/portfolio-lucia-build/static/css/main.0bd8f611.css.map",
+    "main.5d93c1cc.js.map": "/portfolio-lucia-build/static/js/main.5d93c1cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd8f611.css",
+    "static/js/main.5d93c1cc.js"
+  ]
+}
